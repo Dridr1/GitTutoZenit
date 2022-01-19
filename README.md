@@ -1,2 +1,3 @@
-# GitTutoZenit
-Repositório com o tutorial de git/github da Zenit Aerospace
+# GitHub para o projeto ZPIC, o que você precisa saber.
+
+Um resumão bem bacana.
